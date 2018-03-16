@@ -1,0 +1,10 @@
+/home/joao/source/repos/RabbitMQ/NewTask/bin/Debug/netcoreapp2.0/NewTask.deps.json
+/home/joao/source/repos/RabbitMQ/NewTask/bin/Debug/netcoreapp2.0/NewTask.runtimeconfig.json
+/home/joao/source/repos/RabbitMQ/NewTask/bin/Debug/netcoreapp2.0/NewTask.runtimeconfig.dev.json
+/home/joao/source/repos/RabbitMQ/NewTask/bin/Debug/netcoreapp2.0/NewTask.dll
+/home/joao/source/repos/RabbitMQ/NewTask/bin/Debug/netcoreapp2.0/NewTask.pdb
+/home/joao/source/repos/RabbitMQ/NewTask/obj/Debug/netcoreapp2.0/NewTask.csproj.CoreCompileInputs.cache
+/home/joao/source/repos/RabbitMQ/NewTask/obj/Debug/netcoreapp2.0/NewTask.AssemblyInfoInputs.cache
+/home/joao/source/repos/RabbitMQ/NewTask/obj/Debug/netcoreapp2.0/NewTask.AssemblyInfo.cs
+/home/joao/source/repos/RabbitMQ/NewTask/obj/Debug/netcoreapp2.0/NewTask.dll
+/home/joao/source/repos/RabbitMQ/NewTask/obj/Debug/netcoreapp2.0/NewTask.pdb

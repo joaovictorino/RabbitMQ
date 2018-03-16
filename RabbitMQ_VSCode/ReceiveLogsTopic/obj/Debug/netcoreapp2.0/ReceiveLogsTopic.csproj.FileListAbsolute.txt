@@ -1,0 +1,10 @@
+/home/joao/source/repos/RabbitMQ/ReceiveLogsTopic/bin/Debug/netcoreapp2.0/ReceiveLogsTopic.deps.json
+/home/joao/source/repos/RabbitMQ/ReceiveLogsTopic/bin/Debug/netcoreapp2.0/ReceiveLogsTopic.runtimeconfig.json
+/home/joao/source/repos/RabbitMQ/ReceiveLogsTopic/bin/Debug/netcoreapp2.0/ReceiveLogsTopic.runtimeconfig.dev.json
+/home/joao/source/repos/RabbitMQ/ReceiveLogsTopic/bin/Debug/netcoreapp2.0/ReceiveLogsTopic.dll
+/home/joao/source/repos/RabbitMQ/ReceiveLogsTopic/bin/Debug/netcoreapp2.0/ReceiveLogsTopic.pdb
+/home/joao/source/repos/RabbitMQ/ReceiveLogsTopic/obj/Debug/netcoreapp2.0/ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+/home/joao/source/repos/RabbitMQ/ReceiveLogsTopic/obj/Debug/netcoreapp2.0/ReceiveLogsTopic.AssemblyInfoInputs.cache
+/home/joao/source/repos/RabbitMQ/ReceiveLogsTopic/obj/Debug/netcoreapp2.0/ReceiveLogsTopic.AssemblyInfo.cs
+/home/joao/source/repos/RabbitMQ/ReceiveLogsTopic/obj/Debug/netcoreapp2.0/ReceiveLogsTopic.dll
+/home/joao/source/repos/RabbitMQ/ReceiveLogsTopic/obj/Debug/netcoreapp2.0/ReceiveLogsTopic.pdb

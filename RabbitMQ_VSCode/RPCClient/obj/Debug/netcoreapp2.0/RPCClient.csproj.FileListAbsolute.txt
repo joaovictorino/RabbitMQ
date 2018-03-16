@@ -1,0 +1,10 @@
+/home/joao/source/repos/RabbitMQ/RPCClient/bin/Debug/netcoreapp2.0/RPCClient.deps.json
+/home/joao/source/repos/RabbitMQ/RPCClient/bin/Debug/netcoreapp2.0/RPCClient.runtimeconfig.json
+/home/joao/source/repos/RabbitMQ/RPCClient/bin/Debug/netcoreapp2.0/RPCClient.runtimeconfig.dev.json
+/home/joao/source/repos/RabbitMQ/RPCClient/bin/Debug/netcoreapp2.0/RPCClient.dll
+/home/joao/source/repos/RabbitMQ/RPCClient/bin/Debug/netcoreapp2.0/RPCClient.pdb
+/home/joao/source/repos/RabbitMQ/RPCClient/obj/Debug/netcoreapp2.0/RPCClient.csproj.CoreCompileInputs.cache
+/home/joao/source/repos/RabbitMQ/RPCClient/obj/Debug/netcoreapp2.0/RPCClient.AssemblyInfoInputs.cache
+/home/joao/source/repos/RabbitMQ/RPCClient/obj/Debug/netcoreapp2.0/RPCClient.AssemblyInfo.cs
+/home/joao/source/repos/RabbitMQ/RPCClient/obj/Debug/netcoreapp2.0/RPCClient.dll
+/home/joao/source/repos/RabbitMQ/RPCClient/obj/Debug/netcoreapp2.0/RPCClient.pdb

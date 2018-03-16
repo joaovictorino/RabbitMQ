@@ -1,0 +1,10 @@
+/home/joao/source/repos/RabbitMQ/EmitLogDirect/bin/Debug/netcoreapp2.0/EmitLogDirect.deps.json
+/home/joao/source/repos/RabbitMQ/EmitLogDirect/bin/Debug/netcoreapp2.0/EmitLogDirect.runtimeconfig.json
+/home/joao/source/repos/RabbitMQ/EmitLogDirect/bin/Debug/netcoreapp2.0/EmitLogDirect.runtimeconfig.dev.json
+/home/joao/source/repos/RabbitMQ/EmitLogDirect/bin/Debug/netcoreapp2.0/EmitLogDirect.dll
+/home/joao/source/repos/RabbitMQ/EmitLogDirect/bin/Debug/netcoreapp2.0/EmitLogDirect.pdb
+/home/joao/source/repos/RabbitMQ/EmitLogDirect/obj/Debug/netcoreapp2.0/EmitLogDirect.csproj.CoreCompileInputs.cache
+/home/joao/source/repos/RabbitMQ/EmitLogDirect/obj/Debug/netcoreapp2.0/EmitLogDirect.AssemblyInfoInputs.cache
+/home/joao/source/repos/RabbitMQ/EmitLogDirect/obj/Debug/netcoreapp2.0/EmitLogDirect.AssemblyInfo.cs
+/home/joao/source/repos/RabbitMQ/EmitLogDirect/obj/Debug/netcoreapp2.0/EmitLogDirect.dll
+/home/joao/source/repos/RabbitMQ/EmitLogDirect/obj/Debug/netcoreapp2.0/EmitLogDirect.pdb

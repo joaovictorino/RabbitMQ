@@ -1,0 +1,10 @@
+/home/joao/source/repos/RabbitMQ/RPCServer/bin/Debug/netcoreapp2.0/RPCServer.deps.json
+/home/joao/source/repos/RabbitMQ/RPCServer/bin/Debug/netcoreapp2.0/RPCServer.runtimeconfig.json
+/home/joao/source/repos/RabbitMQ/RPCServer/bin/Debug/netcoreapp2.0/RPCServer.runtimeconfig.dev.json
+/home/joao/source/repos/RabbitMQ/RPCServer/bin/Debug/netcoreapp2.0/RPCServer.dll
+/home/joao/source/repos/RabbitMQ/RPCServer/bin/Debug/netcoreapp2.0/RPCServer.pdb
+/home/joao/source/repos/RabbitMQ/RPCServer/obj/Debug/netcoreapp2.0/RPCServer.csproj.CoreCompileInputs.cache
+/home/joao/source/repos/RabbitMQ/RPCServer/obj/Debug/netcoreapp2.0/RPCServer.AssemblyInfoInputs.cache
+/home/joao/source/repos/RabbitMQ/RPCServer/obj/Debug/netcoreapp2.0/RPCServer.AssemblyInfo.cs
+/home/joao/source/repos/RabbitMQ/RPCServer/obj/Debug/netcoreapp2.0/RPCServer.dll
+/home/joao/source/repos/RabbitMQ/RPCServer/obj/Debug/netcoreapp2.0/RPCServer.pdb
