@@ -1,0 +1,12 @@
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\bin\Debug\RabbitMQ.Consumer.exe.config
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\bin\Debug\RabbitMQ.Consumer.exe
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\bin\Debug\RabbitMQ.Consumer.pdb
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\obj\Debug\RabbitMQ.Consumer.csprojResolveAssemblyReference.cache
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\obj\Debug\RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\obj\Debug\RabbitMQ.Consumer.csproj.CopyComplete
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\obj\Debug\RabbitMQ.Consumer.exe
+C:\Users\p017395\Source\Repos\RabbitMQ.Sender\RabbitMQ.Consumer\obj\Debug\RabbitMQ.Consumer.pdb
