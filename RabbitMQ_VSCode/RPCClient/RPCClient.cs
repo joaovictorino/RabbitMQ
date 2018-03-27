@@ -15,7 +15,7 @@ public class RpcClient
 
 public RpcClient()
 {
-        var factory = new ConnectionFactory() { HostName = "localhost" };
+        var factory = new ConnectionFactory() { HostName = "rabbit,rabbit2" };
 
         connection = factory.CreateConnection();
         channel = connection.CreateModel();

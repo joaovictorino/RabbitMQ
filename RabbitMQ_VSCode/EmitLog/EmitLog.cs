@@ -8,7 +8,7 @@ class EmitLog
     public static void Main(string[] args)
     {
         //conexão
-        var factory = new ConnectionFactory() { HostName = "localhost" };
+        var factory = new ConnectionFactory() { HostName = "rabbit,rabbit2" };
         using(var connection = factory.CreateConnection())
         using(var channel = connection.CreateModel())
         {
