@@ -13,7 +13,7 @@ rabbot.configure({
     user: 'guest',
     pass: 'guest',
     host: 'localhost',
-    port: 5673,
+    port: 5674,
     vhost: '%2f',
     replyQueue: 'customReplyQueue',
     heartbeat: 15,
